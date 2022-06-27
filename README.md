@@ -1,4 +1,4 @@
-Projeto Trivia React Redux
+# Projeto Trivia React Redux
 
 Este projeto foi um trabalho realizado por 5 pessoas: Andrews Matsubara, Caíque Quaresma, Jéssica Grunewald, Luã Sampaio e Victor Hugo Souza.
 
